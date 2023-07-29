@@ -1,4 +1,90 @@
-baseURL = 'http://chelseanbr.github.io/'
-languageCode = 'en-us'
-title = 'chelseanbr'
-theme = 'gokarna'
+baseURL = "http://chelseanbr.github.io/"
+defaultContentLanguage = "en"
+languageCode = "en"
+
+title = "chelseanbr"
+
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    # Unique identifier for a menu item
+    identifier = "posts"
+
+    url = "/posts/"
+
+    # You can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+
+    # You can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+
+    # Display name
+    name = "Posts"
+
+    # Weights are used to determine the ordering
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/chelseanbr"
+    weight = 3
+
+    # We use feather-icons: https://feathericons.com/
+    pre = "<span data-feather='github'></span>"
+
+[params]
+  # URL for the avatar on homepage
+  avatarURL = "/images/avatar.jpeg"
+
+  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
+  avatarSize = ""
+
+  # Description to display on homepage
+  description = ""
+
+  # Accent color is displayed when you hover over <a> tags
+  accentColor = "#F08080"
+
+  # You can use this to inject any HTML in the <head> tag.
+  # Ideal usecase for this is to import custom js/css or add your analytics snippet
+  customHeadHTML = ""
+
+  # Keywords relevant for SEO
+  metaKeywords = ["blog", "gokarna", "hugo"]
+
+  # If you want to display posts on the homepage, the options are
+  # "popular" (order posts by weight), "recent" (order posts by date)
+  # or "" (do not display, default option)
+  showPostsOnHomePage = ""
+
+  # Footer text
+  footer = "Chelsea Ramos"
+
+  socialIcons = [
+    {name = "linkedin", url = "https://linkedin.com/in/chelseanbr"},
+    {name = "github", url = "https://github.com/chelseanbr"},
+    {name = "youtube", url = "https://youtube.com/chelseanbr"},
+    {name = "instagram", url = "https://instagram.com/chelseawhatisee"},
+  ]
+
+  customFooterHTML = '''
+    <div id="commento"></div>
+    <script defer src="{{ .Site.Params.CommentoURL }}/js/commento.js"></script>
+    <noscript>Please enable JavaScript to load the comments.</noscript>
+  '''
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
