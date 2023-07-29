@@ -1,0 +1,4 @@
+baseURL = 'http://chelseanbr.github.io/'
+languageCode = 'en-us'
+title = 'chelseanbr'
+theme = 'gokarna'
