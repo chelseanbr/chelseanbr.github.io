@@ -5,7 +5,7 @@ draft: False
 # description: "A blog post"
 # image: "/images/hugo-github-pages/building_website.jpeg"
 type: "post"
-tags: ["blog"]
+tags: ["blog", "code"]
 showTableOfContents: true
 ---
 ![/images/hugo-github-pages/building_website.jpeg](/images/hugo-github-pages/building_website.jpeg)
