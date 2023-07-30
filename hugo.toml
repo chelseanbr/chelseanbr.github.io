@@ -75,6 +75,7 @@ enableRobotsTXT = true
     {name = "github", url = "https://github.com/chelseanbr"},
     {name = "youtube", url = "https://youtube.com/chelseanbr"},
     {name = "instagram", url = "https://instagram.com/chelseawhatisee"},
+    {name = "medium", url = "https://medium.com/@chelseanbr"},
   ]
 
   customFooterHTML = '''
