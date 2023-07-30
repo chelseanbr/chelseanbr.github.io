@@ -70,6 +70,7 @@ First, you will need:
     ```bash
     hugo server
     ```
+    - See your website at: [http://localhost:1313/](http://localhost:1313/)
     - Press `Ctrl+C` to stop the server
 
 7. Last but not least, you will need to commit and push these changes to your GitHub repo and then deploy your website with GitHub pages. These Hugo docs explain the process best: https://gohugo.io/hosting-and-deployment/hosting-on-github/
