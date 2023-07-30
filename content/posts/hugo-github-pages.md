@@ -53,6 +53,7 @@ First, you will need:
 
         8 directories, 2 files
         ```
+
 4. Choose a theme to use for your website at: https://themes.gohugo.io
  - For your desired theme, click Download to go to the theme's GitHub repo and copy its HTTPS clone url, as shown below with the Gokarna theme (https://themes.gohugo.io/themes/gokarna/):
 
@@ -81,5 +82,8 @@ By following these instructions, you will be able to have a basic website up at 
 
 ___
 
-### More Resources
+## More Resources
  - Hugo Quick Start guide: https://gohugo.io/getting-started/quick-start/
+ - Hugo vs Jekyll (another popular static site generator):
+    - https://www.freecodecamp.org/news/hugo-vs-jekyll-battle-of-static-site-generator-themes/
+    - https://draft.dev/learn/hugo-vs-jekyll
