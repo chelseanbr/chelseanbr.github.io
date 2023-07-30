@@ -1,5 +1,5 @@
 ---
-title: "Creating a Website with Hugo & Github Pages"
+title: "Creating a Website with Hugo & GitHub Pages"
 date: 2023-07-29T14:22:54-07:00
 draft: False
 # description: "A blog post"
