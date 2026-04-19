@@ -1,8 +1,11 @@
 baseURL = "http://chelseanbr.github.io/"
 defaultContentLanguage = "en"
 languageCode = "en"
+enableEmoji = true
+pygmentsStyle = "monokai"
 
-title = "chelseanbr"
+title = "Chelsea Ramos"
+showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
 theme = "gokarna"
 
@@ -12,35 +15,40 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     # Unique identifier for a menu item
-    identifier = "posts"
-
-    url = "/posts/"
-
+    name = "Home"
     # You can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-
+    pre = "<span data-feather='home'></span>"
     # You can add extra information after the name (HTML format is supported), such as icons
     post = ""
-
-    # Display name
-    name = "Posts"
-
+    url = "/"
     # Weights are used to determine the ordering
     weight = 1
 
   [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Projects"
+    pre = "<span data-feather='code'></span>"
+    url = "/projects/"
     weight = 2
 
   [[menu.main]]
+    name = "Tags"
+    pre = "<span data-feather='tag'></span>"
+    url = "/tags/"
+    weight = 4
+
+  [[menu.main]]
     identifier = "github"
+    pre = "<span data-feather='github'></span>"
     url = "https://github.com/chelseanbr"
-    weight = 3
+    weight = 5
 
     # We use feather-icons: https://feathericons.com/
-    pre = "<span data-feather='github'></span>"
 
 [params]
   # URL for the avatar on homepage
@@ -50,7 +58,7 @@ enableRobotsTXT = true
   avatarSize = ""
 
   # Description to display on homepage
-  description = ""
+  description = "Machine Learning Engineer | MSAI @ UT Austin '26"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#F08080"
@@ -73,7 +81,6 @@ enableRobotsTXT = true
   socialIcons = [
     {name = "linkedin", url = "https://linkedin.com/in/chelseanbr"},
     {name = "github", url = "https://github.com/chelseanbr"},
-    {name = "youtube", url = "https://youtube.com/chelseanbr"},
     {name = "instagram", url = "https://instagram.com/chelseawhatisee"},
     {name = "medium", url = "https://medium.com/@chelseanbr"},
   ]
@@ -89,3 +96,6 @@ enableRobotsTXT = true
     startLevel = 1
     endLevel = 3
     ordered = false
+
+[minify]
+    minifyOutput = true
