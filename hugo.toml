@@ -31,12 +31,6 @@ enableRobotsTXT = true
     weight = 3
 
   [[menu.main]]
-    name = "Projects"
-    pre = "<span data-feather='code'></span>"
-    url = "/projects/"
-    weight = 2
-
-  [[menu.main]]
     name = "Tags"
     pre = "<span data-feather='tag'></span>"
     url = "/tags/"
@@ -73,7 +67,7 @@ enableRobotsTXT = true
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
   # or "" (do not display, default option)
-  showPostsOnHomePage = "recent"
+  showPostsOnHomePage = "popular"
 
   # Footer text
   footer = "Chelsea Ramos"
@@ -99,3 +93,6 @@ enableRobotsTXT = true
 
 [minify]
     minifyOutput = true
+
+[markup.goldmark.renderer]
+  unsafe = true
