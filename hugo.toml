@@ -25,8 +25,14 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
+    name = "Projects"
+    pre = "<span data-feather='code'></span>"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
     name = "Posts"
-    pre = "<span data-feather='book'></span>"
+    pre = "<span data-feather='edit-3'></span>"
     url = "/posts/"
     weight = 3
 
@@ -37,10 +43,16 @@ enableRobotsTXT = true
     weight = 4
 
   [[menu.main]]
+    name = "Fun"
+    pre = "<span data-feather='smile'></span>"
+    url = "/fun/"
+    weight = 5
+
+  [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/chelseanbr"
-    weight = 5
+    weight = 6
 
     # We use feather-icons: https://feathericons.com/
 
@@ -59,7 +71,17 @@ enableRobotsTXT = true
 
   # You can use this to inject any HTML in the <head> tag.
   # Ideal usecase for this is to import custom js/css or add your analytics snippet
-  customHeadHTML = ""
+  customHeadHTML = """
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZZN7G3R61K"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-ZZN7G3R61K');
+    </script>
+  """
 
   # Keywords relevant for SEO
   metaKeywords = ["blog", "gokarna", "hugo"]
@@ -75,8 +97,10 @@ enableRobotsTXT = true
   socialIcons = [
     {name = "linkedin", url = "https://linkedin.com/in/chelseanbr"},
     {name = "github", url = "https://github.com/chelseanbr"},
-    {name = "instagram", url = "https://instagram.com/chelseawhatisee"},
     {name = "medium", url = "https://medium.com/@chelseanbr"},
+    {name = "instagram", url = "https://instagram.com/chelseawhatisee"},
+    {name = "youtube", url = "https://youtube.com/@sweetpotatodreams"},
+    {name = "email", url = "mailto:chelseanbr@utexas.edu"},
   ]
 
   customFooterHTML = '''
