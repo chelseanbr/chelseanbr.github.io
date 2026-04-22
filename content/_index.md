@@ -1,5 +1,5 @@
 ## About Me
-#### I'm a Machine Learning Engineer based in the San Francisco Bay Area. I'm originally from Honolulu, Hawai'i. 🏝️ Let's connect!
+#### I'm a Machine Learning Engineer based in the San Francisco Bay Area. I'm originally from Honolulu, Hawai'i. 🌺 Let's connect!
 
 I'm currently a graduate student at UT Austin actively searching for my next challenge, ideally entry-to-mid-level MLE roles.
 

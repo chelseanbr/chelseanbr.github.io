@@ -29,7 +29,7 @@ I love learning and trying new things! :) When I’m not at my computer, here is
         </div>
         <div class="card">
             <h3>Yoga & Exercise</h3>
-            <p>After a long day of studies or work, I like to decompress with yoga or a session at the gym.</p>
+            <p>After a long day of studies or work, I like to decompress with yoga or a session at the gym. 🧘🏽‍♀️</p>
         </div>
         <div class="card">
             <h3>Hiking & Walking</h3>
@@ -37,7 +37,7 @@ I love learning and trying new things! :) When I’m not at my computer, here is
         </div>
         <div class="card">
             <h3>Music & Singing</h3>
-            <p>I played clarinet for 7 years in middle and high school band. Now, I'm learning ukulele and I'm always down for karaoke!</p>
+            <p>I played clarinet for 7 years in middle and high school band. Now, I'm learning ukulele and I'm always down for karaoke! 🎤</p>
         </div>
     </div>
 </body>
