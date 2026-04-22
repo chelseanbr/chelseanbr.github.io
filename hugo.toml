@@ -53,6 +53,12 @@ enableRobotsTXT = true
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/chelseanbr"
     weight = 6
+  
+  [[menu.main]]
+    identifier = "email"
+    pre = "<span data-feather='mail'></span>"
+    url = "mailto:chelseanbr@utexas.edu"
+    weight = 7
 
     # We use feather-icons: https://feathericons.com/
 
@@ -103,11 +109,7 @@ enableRobotsTXT = true
     {name = "email", url = "mailto:chelseanbr@utexas.edu"},
   ]
 
-  customFooterHTML = '''
-    <div id="commento"></div>
-    <script defer src="{{ .Site.Params.CommentoURL }}/js/commento.js"></script>
-    <noscript>Please enable JavaScript to load the comments.</noscript>
-  '''
+  customFooterHTML = '<script defer src="https://cloud.umami.is/script.js" data-website-id="0aac787e-52f6-4864-9ea5-93a7f6b47191"></script>'
 
 [markup]
   [markup.tableOfContents]
