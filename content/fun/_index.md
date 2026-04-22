@@ -22,10 +22,12 @@ I love learning and trying new things! :) When I’m not at my computer, here is
             <p>I find it rewarding and fun to learn new languages for connecting with people when I travel! My latest adventures were in Vietnam and Japan.</p>
         </div>
         <div class="card">
-            <h3>Currently Reading:</h3>
-            <ol>
-            <li><i>Designing ML Systems</i> by Chip Huyen</li>
-            <li><i>Artificial Intelligence: A Guide for Thinking Humans</i> by Melanie Mitchell</li>
+            <h3>Anime & Manga</h3>
+            <p>Believe it or not, but I'm caught up in the One Piece anime! 🏴‍☠️ (Not the manga, I switched to watching it)</p>
+        </div>
+        <div class="card">
+            <h3>Music & Singing</h3>
+            <p>I played clarinet for 7 years in middle and high school band. Now, I'm learning ukulele (when I can find time) and I'm always down for karaoke! 🎤</p>
         </div>
         <div class="card">
             <h3>Yoga & Exercise</h3>
@@ -36,8 +38,10 @@ I love learning and trying new things! :) When I’m not at my computer, here is
             <p>As cliché as it sounds, I love being in nature. A long hike or a walk is really nice for resting my eyes and pondering things.</p>
         </div>
         <div class="card">
-            <h3>Music & Singing</h3>
-            <p>I played clarinet for 7 years in middle and high school band. Now, I'm learning ukulele and I'm always down for karaoke! 🎤</p>
+            <h3>Currently Reading:</h3>
+            <ol>
+            <li><i>Designing ML Systems</i> by Chip Huyen</li>
+            <li><i>Artificial Intelligence: A Guide for Thinking Humans</i> by Melanie Mitchell</li>
         </div>
     </div>
 </body>
