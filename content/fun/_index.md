@@ -12,12 +12,13 @@ I love learning and trying new things! :) When I’m not at my computer, here is
 <body>
     <div class="portfolio-container">
         <div class="card">
-            <img src="../images/punch-needle.jpeg" alt="Project 1">
+            <img src="../images/punch-needle.jpeg" alt="Punch Needle Project">
             <h3>Punch Needling</h3>
             <p>I picked this up as a fun, quick way to make custom gifts for family and friends!</p>
+            <a href="/fun/punch-needling/" target="_blank" class="btn">See my creations</a>
         </div>
         <div class="card">
-            <img src="../images/vietnam.jpeg" alt="Project 1">
+            <img src="../images/vietnam.jpeg" alt="Vietnam">
             <h3>Traveling & Languages</h3>
             <p>I find it rewarding and fun to learn new languages for connecting with people when I travel! My latest adventures were in Vietnam and Japan.</p>
         </div>

@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fun on Chelsea Ramos</title><link>http://localhost:1313/fun/</link><description>Recent content in Fun on Chelsea Ramos</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/fun/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fun on Chelsea Ramos</title><link>http://localhost:1313/fun/</link><description>Recent content in Fun on Chelsea Ramos</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/fun/index.xml" rel="self" type="application/rss+xml"/><item><title>Punch Needling</title><link>http://localhost:1313/fun/punch-needling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fun/punch-needling/</guid><description>&lt;p&gt;I&amp;rsquo;ve made more, but I gave them away before taking pictures&amp;hellip;&lt;/p&gt;
+&lt;h2 id="coasters"&gt;Coasters&lt;/h2&gt;
+&lt;html&gt;
+&lt;head&gt;
+ &lt;link rel="stylesheet" href="http://localhost:1313/styles.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+ &lt;div class="portfolio-container"&gt;
+ &lt;div class="card"&gt;
+ &lt;img src="http://localhost:1313/images/punch-needle-react.jpg" alt="React Logo" style="filter: brightness(70%);"&gt;
+ &lt;h3&gt;React Logo&lt;/h3&gt;
+ &lt;/div&gt;
+ &lt;div class="card"&gt;
+ &lt;img src="http://localhost:1313/images/punch-needle.jpeg" alt="Smiley and Miffy"&gt;
+ &lt;h3&gt;Smiley and Miffy&lt;/h3&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;p&gt;More to come!&lt;/p&gt;</description></item></channel></rss>
