@@ -2,7 +2,8 @@
 &lt;h2 id="what-is-hugo"&gt;What is Hugo?&lt;/h2&gt;
 &lt;p&gt;Hugo (&lt;a href="https://gohugo.io"&gt;https://gohugo.io&lt;/a&gt;) is a popular open-source framework that makes it super fast to build and publish static websites like this one. It is written in Go, easy to install, and there are hundreds of cool themes to choose from!&lt;/p&gt;
 &lt;h2 id="what-about-github-pages"&gt;What About GitHub Pages?&lt;/h2&gt;
-&lt;p&gt;In order to make your website publicly available, you&amp;rsquo;ll need to host it somehow. GitHub Pages (&lt;a href="https://pages.github.com"&gt;https://pages.github.com&lt;/a&gt;) allows you to host static websites straight from GitHub repositories for FREE!&lt;/p&gt;</description></item><item><title>Punch Needling</title><link>http://localhost:1313/fun/punch-needling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fun/punch-needling/</guid><description>&lt;h2 id="coasters"&gt;Coasters&lt;/h2&gt;
+&lt;p&gt;In order to make your website publicly available, you&amp;rsquo;ll need to host it somehow. GitHub Pages (&lt;a href="https://pages.github.com"&gt;https://pages.github.com&lt;/a&gt;) allows you to host static websites straight from GitHub repositories for FREE!&lt;/p&gt;</description></item><item><title>Punch Needling</title><link>http://localhost:1313/fun/punch-needling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fun/punch-needling/</guid><description>&lt;p&gt;Below are some of my creations. I&amp;rsquo;m open to requests! 😉&lt;/p&gt;
+&lt;h2 id="coasters"&gt;Coasters&lt;/h2&gt;
 &lt;html&gt;
 &lt;head&gt;
  &lt;link rel="stylesheet" href="http://localhost:1313/styles.css"&gt;
@@ -10,11 +11,11 @@
 &lt;body&gt;
  &lt;div class="portfolio-container"&gt;
  &lt;div class="card"&gt;
- &lt;img src="http://localhost:1313/images/punch-needle-react.jpg" alt="React Logo" style="filter: brightness(70%);"&gt;
+ &lt;img src="http://localhost:1313/images/punch-needle-react.jpg" alt="React Logo" style="filter: brightness(60%);"&gt;
  &lt;h3&gt;React Logo&lt;/h3&gt;
  &lt;/div&gt;
  &lt;div class="card"&gt;
- &lt;img src="http://localhost:1313/images/smiley-miffy.jpeg" alt="Smiley and Miffy"&gt;
+ &lt;img src="http://localhost:1313/images/smiley-miffy.jpeg" alt="Smiley and Miffy" style="filter: brightness(90%);"&gt;
  &lt;h3&gt;Smiley and Miffy&lt;/h3&gt;
  &lt;/div&gt;
  &lt;div class="card"&gt;
@@ -24,4 +25,4 @@
  &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-&lt;p&gt;More to come!&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;More to come&amp;hellip;&lt;/p&gt;</description></item></channel></rss>
