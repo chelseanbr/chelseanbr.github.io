@@ -15,15 +15,15 @@ Below are some of my creations. I'm open to requests! 😉
 <body>
     <div class="portfolio-container">
         <div class="card">
-            <img src="/images/punch-needle-react.jpg" alt="React Logo" style="filter: brightness(60%);">
+            <img src="/images/punch-needle-react.jpg" alt="React Logo" style="filter: brightness(70%);">
             <h3>React Logo</h3>
         </div>
         <div class="card">
-            <img src="/images/smiley-miffy.jpeg" alt="Smiley and Miffy" style="filter: brightness(90%);">
+            <img src="/images/smiley-miffy.jpeg" alt="Smiley and Miffy">
             <h3>Smiley and Miffy</h3>
         </div>
         <div class="card">
-            <img src="/images/starter-kit.jpeg" alt="Starter Kit" style="filter: brightness(90%);">
+            <img src="/images/starter-kit.jpeg" alt="Starter Kit">
             <h3>Starter Kit</h3>
         </div>
     </div>
