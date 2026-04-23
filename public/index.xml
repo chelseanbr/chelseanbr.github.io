@@ -2,8 +2,7 @@
 &lt;h2 id="what-is-hugo"&gt;What is Hugo?&lt;/h2&gt;
 &lt;p&gt;Hugo (&lt;a href="https://gohugo.io"&gt;https://gohugo.io&lt;/a&gt;) is a popular open-source framework that makes it super fast to build and publish static websites like this one. It is written in Go, easy to install, and there are hundreds of cool themes to choose from!&lt;/p&gt;
 &lt;h2 id="what-about-github-pages"&gt;What About GitHub Pages?&lt;/h2&gt;
-&lt;p&gt;In order to make your website publicly available, you&amp;rsquo;ll need to host it somehow. GitHub Pages (&lt;a href="https://pages.github.com"&gt;https://pages.github.com&lt;/a&gt;) allows you to host static websites straight from GitHub repositories for FREE!&lt;/p&gt;</description></item><item><title>Punch Needling</title><link>http://localhost:1313/fun/punch-needling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fun/punch-needling/</guid><description>&lt;p&gt;I&amp;rsquo;ve made more, but I gave them away before taking pictures&amp;hellip;&lt;/p&gt;
-&lt;h2 id="coasters"&gt;Coasters&lt;/h2&gt;
+&lt;p&gt;In order to make your website publicly available, you&amp;rsquo;ll need to host it somehow. GitHub Pages (&lt;a href="https://pages.github.com"&gt;https://pages.github.com&lt;/a&gt;) allows you to host static websites straight from GitHub repositories for FREE!&lt;/p&gt;</description></item><item><title>Punch Needling</title><link>http://localhost:1313/fun/punch-needling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fun/punch-needling/</guid><description>&lt;h2 id="coasters"&gt;Coasters&lt;/h2&gt;
 &lt;html&gt;
 &lt;head&gt;
  &lt;link rel="stylesheet" href="http://localhost:1313/styles.css"&gt;
@@ -15,8 +14,12 @@
  &lt;h3&gt;React Logo&lt;/h3&gt;
  &lt;/div&gt;
  &lt;div class="card"&gt;
- &lt;img src="http://localhost:1313/images/punch-needle.jpeg" alt="Smiley and Miffy"&gt;
+ &lt;img src="http://localhost:1313/images/smiley-miffy.jpeg" alt="Smiley and Miffy"&gt;
  &lt;h3&gt;Smiley and Miffy&lt;/h3&gt;
+ &lt;/div&gt;
+ &lt;div class="card"&gt;
+ &lt;img src="http://localhost:1313/images/starter-kit.jpeg" alt="Starter Kit" style="filter: brightness(90%);"&gt;
+ &lt;h3&gt;Starter Kit&lt;/h3&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/body&gt;

@@ -4,8 +4,6 @@ title: "Punch Needling"
 type: "page"
 ---
 
-I've made more, but I gave them away before taking pictures...
-
 ## Coasters
 
 <html>
@@ -19,8 +17,12 @@ I've made more, but I gave them away before taking pictures...
             <h3>React Logo</h3>
         </div>
         <div class="card">
-            <img src="/images/punch-needle.jpeg" alt="Smiley and Miffy">
+            <img src="/images/smiley-miffy.jpeg" alt="Smiley and Miffy">
             <h3>Smiley and Miffy</h3>
+        </div>
+        <div class="card">
+            <img src="/images/starter-kit.jpeg" alt="Starter Kit" style="filter: brightness(90%);">
+            <h3>Starter Kit</h3>
         </div>
     </div>
 </body>
