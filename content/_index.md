@@ -1,7 +1,7 @@
 ## About Me
 #### I'm a Machine Learning Engineer based in the San Francisco Bay Area. I'm originally from Honolulu, Hawai'i 🌺 and a 1st gen student. Let's connect!
 
-I'm currently a graduate student at UT Austin actively searching for my next challenge, ideally an MLE role.
+I'm a recent M.S. AI graduate from UT Austin with 2+ years of data engineering experience and I'm actively searching for my next challenge, ideally an MLE role.
 
 Over the years, my career has evolved from hardware to software. I started out with a B.S. in Electrical Engineering from the University of Washington and spent 2+ years as a Product Engineer in the semiconductor industry. It was there that I first picked up Python, taking the initiative to automate manual data processing workflows for my team.
 
