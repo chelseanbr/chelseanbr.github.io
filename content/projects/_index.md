@@ -30,11 +30,13 @@ type: page
         <div class="card">
             <img src="../images/cot.png" alt="Project 4">
             <h3>LLM Tutorial for AI in Healthcare</h3>
+            <p>Includes Zero-Shot/Few-Shot Learning, Chain of Thought, Tree of Thought, and generating embeddings for binary classification.</p>
             <a href="https://github.com/chelseanbr/aih-llm" target="_blank" class="btn">View on GitHub</a>
         </div>
         <div class="card">
             <img src="../images/sl-tutorial-wordcloud.png" alt="Project 5">
-            <h3>EDA & Predictive Modeling Tutorial for AI in Healthcare</h3>
+            <h3>EDA & Predictive Modeling Tutorial for AI in Healthcare. </h3>
+            <p>Includes data preprocessing and feature engineering.</p>
             <a href="https://github.com/chelseanbr/aih-eda-modeling" target="_blank" class="btn">View on GitHub</a>
         </div>
     </div>
