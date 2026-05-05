@@ -19,6 +19,7 @@ In 2020, I leaned into my interest in Data Science and successfully transitioned
             <h3>VQA for Bioavailable Iron using Small VLMs</h3>
             <p>Can small VLMs predict bioavailable iron?</p>
             <a href="https://github.com/chelseanbr/smolvlm-nutrition-vqa" target="_blank" class="btn">View on GitHub</a>
+            <p>DOI: <a href="https://doi.org/10.31224/6975" target="_blank" class="btn">https://doi.org/10.31224/6975</a><p>
         </div>
         <div class="card">
             <img src="../images/cm-finetuned-snli.png" alt="Project 2">
